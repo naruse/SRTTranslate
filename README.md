@@ -25,6 +25,8 @@ python main.py Test1.srt es
 ```
 will output: ```ES_Test1.srt```
 
+<strong>Note:</strong> Make sure your srt subtitle files have an UTF8 encoding, else you will have errors.
+Checkout <a href="http://redhotwords.com/unicode.html">here</a> to how to set the encoding in case you have a different encoding than UTF8
 ### Available Languages
 |  |  | | |
 |:---------------------------|:-------------------------|:---------------------------|:-----------------|
