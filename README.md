@@ -1,10 +1,10 @@
-# SubTranslate
+# SRTTranslate
 Simple tool for automatically translating "srt" subtitles for your movies using the google translate service.
 
 This is a command line tool written in <strong>Python 3</strong> to translate your subtitles for your series or movies.
 
 # Download
-Download the latest version from <a href="https://github.com/naruse/SubTranslate/archive/master.zip">here</a>.
+Download the latest version from <a href="https://github.com/naruse/SRTTranslate/archive/master.zip">here</a>.
 
 ##### Dependencies
 This tool uses goslate (http://pythonhosted.org/goslate/) so you will need to install it in order to run the tool.
